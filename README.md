@@ -1,5 +1,5 @@
 # ekkyu.com
-Hello! This is Etsutaro Kamino's home page!
+Hello! This is Etsutaro Kamino's web page!
 
 [ekkyu.com](http://ekkyu.com/) 
 
