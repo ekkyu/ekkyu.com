@@ -1,7 +1,7 @@
-# ekkyu.com
+# [ekkyu.com](http://ekkyu.com/) 
 Hello! This is Etsutaro Kamino's web page!
 
-[ekkyu.com](http://ekkyu.com/) 
+English version from here -> [ekkyu.com](http://ekkyu.com/) 
 
 Japanese version from here -> [ekkyu.com/ja](http://ekkyu.com/ja/) 
 
@@ -39,8 +39,8 @@ Currently, I am working on acquiring related tags by collecting social media dat
 
 ## AWARDS AND SCHOLARSHIP
 1.	Scholarship under the Government's Grants for Creating Research and Education Bases
-April 2018 – current: Monthly stipend of 200,000 yen
-April 2017 – March 2018: Monthly stipend of 85,000 yen
+- April 2018 – current: Monthly stipend of 200,000 yen
+- April 2017 – March 2018: Monthly stipend of 85,000 yen
 2.	Leading Program Forum 2018, “Hack the Hashtag”, Outstanding Performance Award
 3.	AI Summer Camp 2018, Hanoi Vietnam, “Quality First”, Most Practical Proposal Award
   http://www.rwdc.is.nagoya-u.ac.jp/activities/eng/activity-report/2018/news-letter-vol11-released.php
