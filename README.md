@@ -1,9 +1,10 @@
 # [ekkyu.com](https://ekkyu.com/) 
-Hello! This is Etsutaro Kamino's web page!
+Hello! This is Etsutaro Kamino's web page!  
 
 These source codes are no longer in use.  
 I'm currently using a Wikipedia-style website. Please refer to [here](https://www.mediawiki.org/wiki/MediaWiki).
 
+New page from here! → [ekkyu.com](https://ekkyu.com/) 
 ***
 
 <img src="https://github.com/ekkyu/ekkyu.com/blob/master/images/frontface.JPG" width=80%>
